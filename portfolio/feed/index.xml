@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Projects &#8211; Anna-Maria Eriksson</title>
+	<atom:link href="/portfolio/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Otroligt passionerad (webb)utvecklare!</description>
+	<lastBuildDate>Sat, 04 Feb 2023 12:52:05 +0000</lastBuildDate>
+	<language>sv-SE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>Över 30 koduppgifter på CodeAbbey!</title>
+		<link>/portfolio/over-30-koduppgifter-pa-codeabbey/</link>
+					<comments>/portfolio/over-30-koduppgifter-pa-codeabbey/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna-Maria Eriksson]]></dc:creator>
+		<pubDate>Sat, 04 Feb 2023 12:52:05 +0000</pubDate>
+				<guid isPermaLink="false">https://annamariaeriksson.com/?post_type=jetpack-portfolio&#038;p=261</guid>
+
+					<description><![CDATA[Sen September 2022 eller så har jag börjat i princip göra dagliga uppgifter på en sida som heter Code Abbey. Den är rätt så populär bland nybörjare inom programmering som vill förbättra sina kunskaper med datastrukturer och algoritmer. Det har hjälpt mig otroligt mycket att bli en bättre utvecklare. Jag kommer fortsätta göra uppgifter på [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Sen September 2022 eller så har jag börjat i princip göra dagliga uppgifter på en sida som heter Code Abbey. Den är rätt så populär bland nybörjare inom programmering som vill förbättra sina kunskaper med datastrukturer och algoritmer. Det har hjälpt mig otroligt mycket att bli en bättre utvecklare.</p>
+
+
+
+<figure class="wp-block-image alignwide size-large"><img decoding="async" src="https://www.codeabbey.com/index/user_banner/anna-maria-eriksson.png" alt=""/></figure>
+
+
+
+<p>Jag kommer fortsätta göra uppgifter på Code Abbey tills den dagen jag blir heltidsanställd någonstans, och jag gör detta på deltid så länge. Det varierar, men mellan 10-35 timmar i veckan blir det som jag håller på med detta. Det är väldigt olika hur lång tid en uppgift tar att slutföra. Ofta bara en dag, men ibland kan en uppgift vara väldigt komplicerad så den tar en vecka. Sen har jag självklart tagit lite semester ibland och haft så mycket andra ärenden, så därför har jag inte supermånga uppgifter i bagaget.</p>
+
+
+
+<p>Jag har gjort dessa uppgifter i TypeScript primärt och sen jag började med de här uppgifterna så arbetar jag också primärt testdrivet, vilket underlättar livet som utvecklare otroligt mycket.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/portfolio/over-30-koduppgifter-pa-codeabbey/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>CEQ &#8211; mobilanpassad enkät på LTH</title>
+		<link>/portfolio/ceq/</link>
+					<comments>/portfolio/ceq/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna-Maria Eriksson]]></dc:creator>
+		<pubDate>Tue, 01 Jun 2021 09:04:54 +0000</pubDate>
+				<guid isPermaLink="false">https://annamariaeriksson.com/?post_type=jetpack-portfolio&#038;p=79</guid>
+
+					<description><![CDATA[Mit tredje projekt under LiA perioden på LTH våren 2021 innebar att mobilanpassa kursenkäter. Här kan du se hur det blev!]]></description>
+										<content:encoded><![CDATA[
+<p>Det sista projektet jag fick i uppgift att göra på min LiA jag hade mellan 8 mars och 28 maj på LTH&#8217;s IT avdelning var ett rent frontend projekt. Det jag skulle göra var att mobilanpassa de enkäter alla studenter får svara på efter varje kursavslutning. Produktägaren var mycket nöjd med resultatet, och det är jag också. Jag fick tillåtelse av mina kollegor på LTH att använda det här projektet för att stoppa i CV:t. Jag använde mycket Bootstrap i det här projektet också, vilket var väldigt intressant och något jag verkligen vill fortsätta använda i framtiden. Det hjälper verkligen till med responsiviteten och det kortar ner html koden mycket.</p>
+
+
+
+<p>Observera att jag ej har skrivit frågorna själv och ej kommit på dessa själv. Jag har enbart gjort designen efter LTH&#8217;s krav och mobilanpassat den.</p>
+
+
+
+<p>Du kan se projektet på <a rel="noreferrer noopener" href="http://ceq.annamariaeriksson.com/" data-type="URL" data-id="ceq.annamariaeriksson.com" target="_blank">ceq.annamariaeriksson.com</a>. Om det ej fungerar, återkom om några dagar. Lämna en kommentar om det fortfarande inte fungerar efter X antal dagar. Koden finns att se på min Github, i repot <a rel="noreferrer noopener" href="https://github.com/AnnaMariaEriksson/ceq" data-type="URL" data-id="https://github.com/AnnaMariaEriksson/ceq" target="_blank">CEQ</a>. Observera att originala commits inte finns med, då jag använde mig av ett privat repo för utvecklingen.</p>
+
+
+
+<p>Extra OBS! Just nu är det lite kaos med mina domäner, så fungerar det fortfarande inte, så ber jag om ursäkt för det. Jag ska försöka få ordning på allt snarast möjligt. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/portfolio/ceq/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ljudio</title>
+		<link>/portfolio/ljudio/</link>
+					<comments>/portfolio/ljudio/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna-Maria Eriksson]]></dc:creator>
+		<pubDate>Sat, 22 May 2021 21:53:44 +0000</pubDate>
+				<guid isPermaLink="false">https://annamariaeriksson.com/?post_type=jetpack-portfolio&#038;p=33</guid>
+
+					<description><![CDATA[Ljudio är mitt första riktiga egna projekt som jag gjort själv och är superstolt över!]]></description>
+										<content:encoded><![CDATA[
+<p>Ljudio är ett skolprojekt jag gjorde helt själv under den tidiga våren 2021. Syftet var att skapa ungefär som en Spotify kopia. Alltså en musikspelare. Jag använde mig av YouTube API. Servern är i Node.js och frontend är i Vue.js. Jag använde mig även av vuex och express.</p>
+
+
+
+<p>Designen säger mycket om vem jag är som person, då jag älskar magenta, svart och vitt. Gärna tillsammans i lite grunge/emo stil. Typsnittet är från Google Fonts och heter Special Elite.</p>
+
+
+
+<p>Här hittar du koden &#8211;> <a rel="noreferrer noopener" href="http://github.com/annamariaeriksson/ljudio" data-type="URL" target="_blank">GitHub!</a> </p>
+
+
+
+<p>Observera att jag håller på att göra om det här projektet så att det ska fungera lokalt på en dator, och det görs i mån av tid.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/portfolio/ljudio/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

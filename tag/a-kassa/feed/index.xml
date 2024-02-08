@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>A-kassa &#8211; Anna-Maria Eriksson</title>
+	<atom:link href="/tag/a-kassa/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Otroligt passionerad (webb)utvecklare!</description>
+	<lastBuildDate>Mon, 14 Jun 2021 14:40:12 +0000</lastBuildDate>
+	<language>sv-SE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>Inskriven på AF&#8230;</title>
+		<link>/nyheter/inskriven-pa-af/</link>
+					<comments>/nyheter/inskriven-pa-af/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna-Maria Eriksson]]></dc:creator>
+		<pubDate>Mon, 14 Jun 2021 14:40:12 +0000</pubDate>
+				<category><![CDATA[Nyheter]]></category>
+		<category><![CDATA[A-kassa]]></category>
+		<category><![CDATA[Arbetsförmedlingen]]></category>
+		<category><![CDATA[Danmark]]></category>
+		<category><![CDATA[jobbsök]]></category>
+		<category><![CDATA[Köpenhamn]]></category>
+		<guid isPermaLink="false">https://annamariaeriksson.com/?p=135</guid>
+
+					<description><![CDATA[Jag har skrivit in mig på Arbetsförmedlingen och ansökt om a-kassa, men jag hoppas att detta inte är något långvarigt.]]></description>
+										<content:encoded><![CDATA[
+<p>Idag skrev jag in mig på Arbetsförmedlingen igen. Något jag inte trodde jag skulle behöva göra, men det har ju varit väldigt svårt att hitta ett lämpligt jobb som funkar för mig och för den potentiella arbetsgivaren.  Detta har lett till att jag börjat leta jobb i Köpenhamn, och i värsta fall kanske jag måste lämna Skåne för att hitta ett jobb. Det negativa med det är att min budget, min absolut yttersta personliga budget för framtiden går sönder totalt om jag måste flytta till en &#8221;dyrare&#8221; lägenhet. Men det ska jag inte prata om här.</p>
+
+
+
+<p>Jag har sökt ett par jobb inom frontend-utveckling i Danmark och väntar på svar. Sen har jag sökt ett till traineeprogram där frågan är om det ens är av intresse, men också ifall det finns möjlighet att fortsätta en potentiell anställning i Köpenhamn efter avslutad utbildning på 4 veckor. Det återstår att se. Jag är realistisk och räknar med ett nej från alla vid det här laget. Något annat kan jag inte göra.</p>
+
+
+
+<p>Jag har också fått kontakt med en väldigt häftig person på LinkedIn inför framtiden. Hon ska hjälpa mig att synas lite mer, och leder det till jobb så är det positivt. Leder det till ett konsult jobb där jag kanske startar eget företag så kommer vi då ha ett samarbete i så fall, vilket är skoj. Frågan är dock om jag redan nu är redo att vara egen? Jag har velat ha mitt eget företag i hur många år som helst, men jag är osäker på om det är något som är aktuellt för mig idag. Jag får tänka på det lite mer, men jag hoppas att jag en vacker dag får vara min egen chef!</p>
+
+
+
+<p>Ett av jobben jag har sökt i Danmark hoppas jag verkligen hör av sig, för det hade varit fantastiskt, men just nu är jag öppen för allt som innebär ett lämpligt jobb.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/nyheter/inskriven-pa-af/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
